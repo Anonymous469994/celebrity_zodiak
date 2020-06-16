@@ -1,1 +1,0 @@
-# celebrity_zodiak
